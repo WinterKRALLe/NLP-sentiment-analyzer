@@ -1,9 +1,9 @@
 Natural Language Processing - sentiment analyzer  
-Requirement can be installed with:  
+Requirements can be installed with:  
 ```python
 pip install -r requirements.txt
 ```   
-Can be run with:  
+Program can be run with:  
 ```python
 python main.py
 ```  
